@@ -1,0 +1,58 @@
+body {
+    background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    font-family:  'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.user-img {
+    width: 150px;
+    height: 150px;
+}
+
+.container {
+    font-family:  'Lato', sans-serif;
+    font-weight: 400;
+    background-color: rgba(0, 0, 0, 0.178);
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    margin: 100px auto;
+    width: 700px;
+    height: 600px;
+}
+.form-sec {
+    width: 200px;
+    padding: 5px;
+    margin: 20px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.24);
+    width: 100px;
+    margin: 50px;
+    padding: 10px;
+    color:white;
+    border-radius: 10px;
+    border: none;
+}
+
+.reset {
+    background-color: rgba(0, 0, 0, 0.24);
+    width: 100px;
+    margin: 50px;
+    padding: 10px;
+    color:white;
+    border-radius: 10px;
+    border: none;
+}
+
+.sub {
+    color: white;
+}
